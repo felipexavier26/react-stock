@@ -1,8 +1,21 @@
-# React + Vite
+# Projeto de Gerenciamento de Produtos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto é um sistema de gerenciamento de produtos que permite aos usuários criar, ler, atualizar e deletar produtos. O sistema também inclui funcionalidades de autenticação para acesso seguro às operações.
 
-Currently, two official plugins are available:
+## Funcionalidades
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Operações CRUD (Create, Read, Update, Delete)**
+  - **Create:** Adicionar novos produtos ao sistema.
+  - **Read:** Visualizar a lista de produtos e detalhes de um produto específico.
+  - **Update:** Editar as informações de um produto existente. 
+  - **Delete:** Remover produtos do sistema.
+
+## Tecnologias Utilizadas
+
+- **Frontend:** React, Bootstrap, React icons
+- **Backend:** API REST (especificar a tecnologia, se aplicável)
+
+
+
+
+
