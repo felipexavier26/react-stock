@@ -15,6 +15,7 @@ Este projeto é um sistema de gerenciamento de produtos que permite aos usuário
 - **Frontend:** React, Bootstrap, React icons
 - **Backend:** API REST (especificar a tecnologia, se aplicável)
 
+![image](https://github.com/user-attachments/assets/3f457a51-b89e-4a46-be04-8ba3130a9859)
 
 
 
